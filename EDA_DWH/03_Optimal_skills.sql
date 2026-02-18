@@ -30,7 +30,7 @@ HAVING
     COUNT(jpf.*) > 100
 ORDER BY 
     optimal_score DESC
-LIMIT 10;
+LIMIT 25;
 
 
 
