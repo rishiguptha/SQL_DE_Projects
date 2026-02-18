@@ -6,9 +6,9 @@ The following projects are a collection of SQL projects that I have worked on to
 
 ## Projects
 
-### [1.EDA_DWH](../EDA_DWH/) - Explanatory Data Analysis
+### [1.EDA_DWH](EDA_DWH/) - Explanatory Data Analysis
 
-![Project Overview](../EDA_DWH/assets/Architecture.png)
+![Project Overview](EDA_DWH/README.md)
 
 
 SQL-Driven analysis of data engineer job market trends using advanced querying techniques.
