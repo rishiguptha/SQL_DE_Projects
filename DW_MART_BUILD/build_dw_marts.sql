@@ -11,3 +11,9 @@
 
 -- STEP 4: Creating Skills Mart
 .read 04_create_skills_mart.sql
+
+-- step 5: Creating Priority roles Mart
+.read 05_create_priority_mart.sql
+
+--STEP 6 : Update PRiority roles Mart
+.read 06_update_priority_mart.sql
