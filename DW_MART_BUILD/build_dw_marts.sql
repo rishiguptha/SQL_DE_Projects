@@ -8,3 +8,6 @@
 
 -- STEP 3: Creating Flat Table Mart
 .read 03_create_flat_mart.sql
+
+-- STEP 4: Creating Skills Mart
+.read 04_create_skills_mart.sql
