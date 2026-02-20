@@ -5,3 +5,6 @@
 
 -- Step 2: Load Data from CSV and Insert data into fact and dimensions tables
 .read 02_load_schema_dw.sql
+
+-- STEP 3: Creating Flat Table Mart
+.read 03_create_flat_mart.sql
