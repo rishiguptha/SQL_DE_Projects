@@ -78,7 +78,7 @@ The data warehouse implements a star schema with `company_dim`, `skills_dim`, `j
 **Purpose:** Star schema serving as single source of truth for analytical queries
 **Grain:** One row per job posting in the fact table (`job_postings_fact`)
 
-![Data Warehouse](../assets/Data_warehouse-2.png)
+![Data Warehouse](../assets/Data_Warehouse-2.png)
 
 ---
 
